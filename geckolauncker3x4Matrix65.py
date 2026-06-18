@@ -4,7 +4,7 @@
 #GeckoLoger Vitacora de Gecko: [17.06.2026 01:45hrs.] Las Transparencias rompen el COntinuo Qt-Espacio-Tiempo
 #GeckoLoger Vitacora de Gecko: [17.06.2026 11:39hrs.] Vamos a hacer transparentes esos GeckoICons!!!
 #GeckoLoger Vitacora de Gecko: [17.06.2026 13:32hrs.] - Gecko... ¿vos viste el log?... leelo de nuevo, estamos volando!!!
-#GeckoLoger Vitacora de Gecko: [18.06.2026 01:29hrs.] La criatura esta en paz con el Multiverso, Gecko OS Respira Minimalismo
+#GeckoLoger Vitacora de Gecko: [18.06.2026 01:29hrs.] La criatura está en paz con el Multiverso, Gecko OS Respira Minimalismo
 """
 THE VERSIONS > [v.5.0] ARE REALLY GECKOSTABLES!!! I'm Felling Like Gecko OS
 """
